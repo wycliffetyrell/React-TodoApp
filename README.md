@@ -38,7 +38,7 @@ npm start dev
 Usage
 Once the development server is running, open your web browser and navigate to http://localhost:3000 to see the application in action.
 
-Contributing
+## Contributing
 If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
